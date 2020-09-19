@@ -1,0 +1,143 @@
+<resources>
+    <string name="app_name">Class Five</string>
+
+    <string-array name="player">
+
+        <item>Messi</item>
+        <item>Shakib</item>
+        <item>Neymar</item>
+        <item>Mushfique</item>
+        <item>Tamim</item>
+        <item>Bill Gates</item>
+        <item>Mark Jukarbarg</item>
+        <item>Jamal Bhuyan</item>
+        <item>Siddikur Rahman</item>
+        <item>Virat Kohli</item>
+
+    </string-array>
+
+    <string-array name="player_type">
+
+        <item>Football</item>
+        <item>Cricket</item>
+        <item>Football</item>
+        <item>Cricket</item>
+        <item>Cricket</item>
+        <item>Microsoft Author</item>
+        <item>Facebook Author</item>
+        <item>Football</item>
+        <item>Golf</item>
+        <item>Cricket</item>
+
+    </string-array>
+
+    <string name="Messi">"
+
+        Lionel Andrés Messi ( born 24 June 1987) is an Argentine professional footballer who plays as a forward
+        and captains both La Liga club Barcelona and the Argentina national team.
+        Often considered the best player in the world and widely regarded as one of the greatest players of all time, Messi has won a record six Ballon d'Or awards,
+        and a record six European Golden Shoes. He has spent his entire professional career with Barcelona, where he has won a club-record 33 trophies,
+        including ten La Liga titles, four UEFA Champions League titles and six Copas del Rey. A prolific goalscorer and creative playmaker,
+        Messi holds the records for most goals in La Liga (444), a La Liga and European league season (50), most hat-tricks in La Liga (36) and the UEFA Champions League (8),
+        and most assists in La Liga (183), a La Liga and European league season (21)[9] and the Copa América (12). He has scored over 700 senior career goals for club and country.
+        "</string>
+
+    <string name="Shakib">"
+
+        Shakib Al Hasan (born 24 March 1987) is a Bangladeshi international cricketer who was consistently ICC s no.1 all rounder in  all three formats of the game for a decade.
+        He was ranked as the 2nd most valuable player of the century according to  Wisden Cricketers Almanack[4].
+        "</string>
+
+    <string name="Neymar">"
+
+        Neymar da Silva Santos Júnior ( born 5 February 1992),
+        known as Neymar, is a Brazilian professional footballer who plays as a forward for Ligue 1 club Paris Saint-Germain and the Brazil national team.
+
+        "</string>
+
+    <string name="Mushfique">"
+
+         Mushfiqur Rahman is a Bangladeshi international cricketer who was consistently ICCs no.1 all rounder in all three formats of the game for a decade.
+        He was ranked as the 2nd most valuable player of the century according to Wisden Cricketers Almanack.
+
+        "</string>
+
+
+    <string name="Tamim">"
+
+        Tamim Iqbal Khan (born 20 March 1989) is a Bangladeshi international cricketer. He is the current captain of Bangladesh s One Day International (ODI) team.
+    Tamim made his ODI debut in 2007 and played his first Test match the following year. He served as vice-captain of the national side between December 2010 and September 2011.
+    Tamim has scored centuries in all three formats of the game and is also the first Bangladeshi to score 10,000, 11,000, 12,000 , 13,000 international runs.
+    In January 2018 against Zimbabwe at Sher-e-Bangla National Cricket Stadium, Dhaka, he became the first batsman for Bangladesh to reach 6,000 , 7,000 runs in ODIs and has gone past Sanath
+    Jayasuriya s 2,514 runs at the R.  Premadasa Stadium to become highest run-scorer at a single venue in ODIs.[4][5]  In 2011 he was named as one of Wisden Cricketers  Almanack s four Cricketers
+    of the Year, and Wisden's. Test Player of the Year, becoming just the second Bangladeshi player to be awarded the accolade. He plays first-class cricket for Chittagong Division cricket team.
+    He is the highest individual run scorer for Bangladesh in limited over formats and only Bangladeshi cricketer to score centuries in all three formats of the game.[6] Tamim is also Bangladesh's
+    highest century-maker in international matches with 23 centuries, combining all forms of cricket.  He is currently the highest run-scorer for Bangladesh in international cricket,[7] including Test matches,
+    ODIs and Twenty20 Internationals. He is the second Bangladeshi cricketer to score 3,000 runs in Tests and 5,000 runs in ODIs and also the first Bangladeshi cricketer to go past 1,000 runs in T20Is.
+    He played his 200th ODI match for Bangladesh during the 2019 Cricket World Cup.
+
+        "</string>
+
+
+
+    <string name="Bill_Gates">"
+
+
+        Bill Gates (born October 28, 1955) is an American business magnate, software developer, investor, and philanthropist.
+        He is best known as the co-founder of Microsoft Corporation.[2][3] During his career at Microsoft, Gates held the positions of chairman,
+        chief executive officer (CEO), president and chief software architect, while also being the largest individual shareholder until May 2014.
+        He is one of the best-known entrepreneurs and pioneers of the microcomputer revolution of the 1970s and 1980s.
+
+
+        "</string>
+
+
+
+
+    <string name="Mark_Jukarbarg">"
+
+        Mark Jukarbarg  ( born May 14, 1984) is an American media magnate, internet entrepreneur, and philanthropist.
+        He is known for co-founding Facebook, Inc. and serves as its chairman, chief executive officer, and controlling shareholder
+        He also is a co-founder of the solar sail spacecraft development project Breakthrough Starshot and serves as one of its board members.
+
+
+        "</string>
+
+
+
+
+    <string name="Jamal_Bhuyan">"
+
+        Jamal Bhuyan (born 10 April 1990) is a Danish-born Bangladeshi footballer who plays as a midfielder and
+        Captain for the both Bangladesh national team and Bangladesh Premier League (football) club Saif SC .
+
+
+        "</string>
+
+
+
+    <string name="Siddikur_Rahman">"
+
+        Siddikur Rahman (born 20 November 1984) is a Bangladeshi professional golfer who plays on the Asian Tour.
+
+      As an amateur, Siddikur won twelve events in Asia, winning five times in Bangladesh, two in Pakistan, Sri Lanka, and Nepal and one in India.
+        Siddikur turned professional in 2005 and joined the Professional Golf Tour of India in 2006.
+        He picked up his first win on tour in 2008 at the PGTI Players Championship at Poona Golf Club and he picked up his second victory two months later at
+        the HUDA-GTPL – Unitech Haryana Open. Siddikur won his third event in 2009 at The Global Green Bangalore Open and his fourth event in 2010 at the American Express Bangladesh Open.
+
+
+        "</string>
+
+
+
+    <string name="Virat_Kohli">"
+
+        Virat Koli ( born 5 November 1988) is an Indian cricketer and the current captain of the India national team.
+        A right-handed top-order batsman, Kohli is regarded as one of the best batsmen in the world.
+        He plays for Royal Challengers Bangalore in the Indian Premier League (IPL), and has been the team's captain since 2013. Since October 2017,
+        he has been the top-ranked ODI batsman in the world and is currently 2nd in Test rankings with 886 points.
+        Among Indian batsmen, Kohli has the best ever Test rating (937 points), ODI rating (911 points) and T20I rating (897 points).
+
+
+        "</string>
+</resources>
